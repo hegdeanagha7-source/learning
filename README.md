@@ -1,3 +1,3 @@
 # learning
 this is my first repositary<br/>
-author-anagha hegde
+author-anagha ramachandra hegde
